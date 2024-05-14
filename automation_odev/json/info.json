@@ -1,0 +1,30 @@
+{
+    "info": [
+        {
+            "id": 27,
+            "name": "neriman",
+            "sehir": "istanbul"
+        },
+        {
+            "id": 24,
+            "name": "furkan",
+            "sehir": "istanbul"
+        },
+        {
+            "id": 25,
+            "name": "Ozge",
+            "sehir": "istanbul"
+        },
+        {
+            "id": 26,
+            "name": "serpil nur",
+            "sehir": "istanbul"
+        },
+        {
+            "id": 29,
+            "name": "nur",
+            "sehir": "ankara"
+        }
+
+    ]
+}
